@@ -23,3 +23,5 @@ This is fragment 3 of 20. The complete story emerges when all fragments are read
 <!-- Fragment 3 whispers: 6 -->
 
 <!-- Fragment 3 whispers: 8 -->
+
+<!-- Fragment 3 whispers: 9 -->
